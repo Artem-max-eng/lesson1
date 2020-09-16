@@ -11,4 +11,4 @@ if 'country' not in stock:
     print(stock)
 else:
     print('alreadyexists')
-print(len(stock))
+
